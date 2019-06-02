@@ -6,3 +6,4 @@ This is not my work, it is reused here for because it is so useful. Thanks to th
 From
 MIDISpy - Copyright (c) 2012 Hendrik Iben - hendrik [dot] iben <at> googlemail [dot] com
 Spies on your MIDI data...
+See MidiSpy.java for more details.
